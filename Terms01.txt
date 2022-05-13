@@ -4,7 +4,9 @@
 |
 |--SLA
 
-Chaose Engineering
+Chaose Engineering:
+The goal of chaos engineering is to identify weakness in a system through controlled experiments that introduce random and unpredictable behavior.
+example: You are finished implementing a Fault-Tolerant  
 
 Toil
 
